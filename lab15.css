@@ -1,0 +1,51 @@
+@font-face{
+    font-family: "Picanto";
+    src: url(fonts/Picanto.ttf)
+}
+
+p{
+    font-size: 18px;
+}
+
+body{
+    font-family: "Picanto", sans-serif;
+}
+
+div{
+    font-size: 18px;
+}
+
+.input-text{
+    margin: 10px 0px;
+}
+
+input{
+    width: 50px;
+}
+
+.inform{
+    margin-bottom:10px;
+}
+
+.warning{
+    color:red;
+    margin-bottom: 0px;
+}
+
+button
+{
+    font-family: "Picanto", sans-serif;
+    font-size: 15px;
+}
+
+.block{
+    padding: 10px 16px;
+    border:rgb(0, 0, 0) solid 1px;
+    text-align: center;
+    margin-right: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.line{
+    margin-bottom: 25px;
+}
